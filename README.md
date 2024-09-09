@@ -1,2 +1,2 @@
 # Logic-Synthesis-Techniques
-Code scripts of LST assignments
+Code scripts - LST 7th sem
